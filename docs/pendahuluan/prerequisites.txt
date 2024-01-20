@@ -1,0 +1,12 @@
+---
+sidebar_position: 2
+---
+
+# Prasyarat
+
+Untuk memulai dalam pengembangan project menggunakan Tauri, kita perlu install beberapa `dependecies` diantaranya :
+- System Dependencies didalam OS (Linux, Windows, MacOS)
+- Rust
+- Konfigurasi untuk pengembangan mobile app. 
+
+**Lebih detailnya :  https://beta.tauri.app/guides/prerequisites**

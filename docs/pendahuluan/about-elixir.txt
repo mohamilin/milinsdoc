@@ -1,0 +1,22 @@
+---
+sidebar_position: 1
+---
+
+# Tentang Tauri
+
+:::caution
+
+Dokumentasi ini dibuat berdasarkan versi pre-rilis 2.0 (https://beta.tauri.app/guides/). Jika anda ingin versi yang stabil bisa mengacu pada versi 1.0 (https://tauri.app/)
+
+:::
+
+Tauri adalah framework dikembangan menggunakan bahasa `RUST` yang ditujukan untuk para developer aplikasi berbasis desktop dan mobile dengan menggunakan tauri ukuran aplikasi menjadi lebih kecil sehingga bisa lebih cepat. 
+
+
+## Keuntungan 
+1. Lebih aman (secure).
+2. Ukuran bundle app lebih kecil walaupun di develop secara native.
+3. Fleksibiltas dalam pengembangan yang dapat menggunakan berbagai modern freamwork 
+  - Javascrip : Next.js, Nuxt.js, Qwik, Svelte, Webpack, Vite
+  - Rust : Leptos, Trunk, Sycamore, Yew
+  

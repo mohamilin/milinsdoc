@@ -1,0 +1,8 @@
+{
+  "label": "Basic Types",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Sama seperti bahasa pemrograman yang lain, Elixir memiliki tipe data diantaranya : integer,string, float, boolean, list, tuples. mari kita explore...."
+  }
+}
