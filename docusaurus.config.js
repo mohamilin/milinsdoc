@@ -60,17 +60,17 @@ const config = {
     ],
   ],
 
-  plugins: [
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        id: 'docs-elixir',
-        path: 'docs-elixir',
-        routeBasePath: 'elixir',
-        sidebarPath: require.resolve('./sidebars.js'),
-      }, 
-    ],
-  ],
+  // plugins: [
+  //   [
+  //     '@docusaurus/plugin-content-docs',
+  //     {
+  //       id: 'docs-elixir',
+  //       path: 'docs-elixir',
+  //       routeBasePath: 'elixir',
+  //       sidebarPath: require.resolve('./sidebars.js'),
+  //     }, 
+  //   ],
+  // ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */

@@ -13,7 +13,7 @@ Namun, kali ini saya ingin mendokumentasikan dengan OS Windows.
 ### Menggunakan installer
     - Download dan jalankan [_Erlang installer_ ](https://www.erlang.org/downloads.html)
     - Download dan jalankan _Erlang/OTP_ yang sesuai dengan versi Elixir anda.
-        - Versi Elixir 1.16.0 untuk Erlang versi 26 [LDOWNNLOADINK](https://github.com/elixir-lang/elixir/releases/download/v1.16.0/elixir-otp-26.exe)
+        - Versi Elixir 1.16.0 untuk Erlang versi 26 [DOWNNLOAD](https://github.com/elixir-lang/elixir/releases/download/v1.16.0/elixir-otp-26.exe)
         - Versi Elixir 1.16.0 untuk Erlang versi 25 [DOWNNLOAD](https://github.com/elixir-lang/elixir/releases/download/v1.16.0/elixir-otp-25.exe)
         - Versi Elixir 1.16.0 untuk Erlang versi 24 [DOWNNLOAD](https://github.com/elixir-lang/elixir/releases/download/v1.16.0/elixir-otp-24.exe)
     - Setelah instalasi _restart_ laptop

@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Basic Arithmetic
 
+Belajar `Basic Arithmetic` pada Elixir.
+<br/>
 Sebelum nya berikut ini contoh untuk tipe data :
 
 ```elixir
@@ -44,3 +46,16 @@ iex > 0x1F          # 31
 
 Untuk tipe data `float` setidaknya terdiri dari satu digit dibelakang koma, menariknya Elixir mendukung notasi untuk perhitungan `scientific` dan  memiliki `presisi 64-bit` yang artinya kemampuan untuk melakukan operasi matematika memiliki tingkat akurasi yang tinggi sehingga pengolahan yang dilakukan dapat menjadi sangat baik. 
 
+
+Nah, bagaimana kalau untuk pembulatan ?
+Untuk pembulatan ke atas dapat menggunakan `round` dan pembulatan ke bawah `trunc`
+
+```elixir
+iex > round(2.76)       # 3
+iex > trunc(2.76)       # 2
+```
+
+Kita juga bisa mengecek terkait tipe data :
+- `is_integer` : mengecek data integer (bilangan bulat)
+- `is_float` : mengecek data float (bilangan desimal)
+- `is_number` : mengecek data number
